@@ -1,0 +1,19 @@
+.simple {
+    background-color: lightcoral;
+    font-family: Verdana, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.simple.cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
